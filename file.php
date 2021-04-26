@@ -3,6 +3,8 @@
 </code></pre>
 </div>
 
+ADDITION ADDITION ADDITION ADDITION ADDITION
+
 <p><iframe class="sample-code-frame" id="frame_file-example" width="650" height="60" src="https://yari-demos.prod.mdn.mozit.cloud/ru/docs/Web/HTML/Element/Input/file/_samples_/file-example" loading="lazy"></iframe></p>
 
 <table class="properties">
